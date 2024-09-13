@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/iitm-t1/static/css/main.31d6cfe0.css",
+    "main.js": "/iitm-t1/static/js/main.585a5800.js",
+    "static/js/453.62e709b6.chunk.js": "/iitm-t1/static/js/453.62e709b6.chunk.js",
+    "index.html": "/iitm-t1/index.html",
+    "main.585a5800.js.map": "/iitm-t1/static/js/main.585a5800.js.map",
+    "453.62e709b6.chunk.js.map": "/iitm-t1/static/js/453.62e709b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.585a5800.js"
+  ]
+}
